@@ -1,0 +1,6 @@
+numOne = int(input("Первое число: "))
+numTwo = int(input("Второе число: "))
+numThree = int(input("Третье число: "))
+numFour = int(input("Четвертое число: "))
+res = (numOne + numTwo)/(numThree + numFour)
+print(f"Ваш ответ: {res}")
